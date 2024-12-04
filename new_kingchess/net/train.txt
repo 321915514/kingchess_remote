@@ -1,0 +1,2 @@
+train_trt_10_18 是 b5c128 模型文件在10_18_model
+train_trt_10_20 是b18c128 当前训练的模型

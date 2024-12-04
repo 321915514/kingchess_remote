@@ -1,0 +1,51 @@
+cc_config(
+  cflags = [
+    '-Wall',
+    '-ggdb3',
+    '-O0',
+    '-std=gnu99',
+    '-frename-registers',
+    '-pthread',
+    '-Wsign-compare',
+    '-D_GNU_SOURCE',
+    '-fomit-frame-pointer',
+  ],
+
+  cxxflags = [
+    '-std=c++17',
+    '-O3',
+  ],
+
+  warnings = [
+    '-Wno-unused-local-typedefs',
+    '-fPIC',
+    '-fstack-protector-all',
+  ],
+
+  cxx_warnings = [
+    '-fPIC',
+    '-fstack-protector-all',
+  ],
+
+  extra_incs = [
+      '/usr/local/cuda/include',
+      '/usr/local/cuda/lib64',
+      '/usr/local/cuda/targets/x86_64-linux/lib',
+      '/usr/local/cuda/targets/x86_64-linux/include',
+      '/usr/local/cuda/bin',
+      'thirdparty',
+      'thirdparty/brpc',
+      'thirdparty/protobuf',
+      'thirdparty/glog',
+      'thirdparty/gflags',
+  ],
+
+)
+
+proto_library_config(
+    protoc='thirdparty/protobuf/bin/protoc',
+    protobuf_libs=['thirdparty/protobuf:protobuf'],
+    protobuf_path='thirdparty',
+    protobuf_incs = 'thirdparty',
+)
+

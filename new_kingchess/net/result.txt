@@ -1,0 +1,57 @@
+./ldconv_model/20000.pth: num_playouts:300, black win: 0.0, white win: 0.0, n_games : 1
+./ldconv_model/2000.pth: num_playouts:300, black win: 0.0, white win: 0.0, n_games : 1
+./ldconv_model/230000.pth: 
+./ldconv_model/20000.pth: num_playouts:300, black win: 0.09, white win: 0.62, n_games : 100
+./ldconv_model/2000.pth: num_playouts:300, black win: 0.26, white win: 0.55, n_games : 100
+./ldconv_model/230000.pth: 
+./ldconv_model/232000.pth: 
+./ldconv_model/234000.pth: 
+./ldconv_model/236000.pth: 
+./ldconv_model/238000.pth: 
+./ldconv_model/240000.pth: 
+./ldconv_model/24000.pth: num_playouts:300, black win: 0.11, white win: 0.43, n_games : 100
+./ldconv_model/242000.pth: 
+./ldconv_model/244000.pth: 
+./ldconv_model/246000.pth: 
+./ldconv_model/248000.pth: 
+./ldconv_model/26000.pth: num_playouts:300, black win: 0.3, white win: 0.45, n_games : 100
+./ldconv_model/28000.pth: num_playouts:300, black win: 0.57, white win: 0.63, n_games : 100
+./ldconv_model/30000.pth: num_playouts:300, black win: 0.12, white win: 0.5, n_games : 100
+./ldconv_model/32000.pth: num_playouts:300, black win: 0.22, white win: 0.53, n_games : 100
+./ldconv_model/34000.pth: num_playouts:300, black win: 0.76, white win: 0.68, n_games : 100
+./ldconv_model/36000.pth: num_playouts:300, black win: 0.66, white win: 0.57, n_games : 100
+./ldconv_model/38000.pth: num_playouts:300, black win: 0.41, white win: 0.46, n_games : 100
+./ldconv_model/40000.pth: num_playouts:300, black win: 0.48, white win: 0.38, n_games : 100
+./ldconv_model/4000.pth: 
+./ldconv_model/42000.pth: num_playouts:300, black win: 0.34, white win: 0.79, n_games : 100
+./ldconv_model/44000.pth: num_playouts:300, black win: 0.34, white win: 0.56, n_games : 100
+./ldconv_model/46000.pth: num_playouts:300, black win: 0.39, white win: 0.65, n_games : 100
+./ldconv_model/48000.pth: num_playouts:300, black win: 0.3, white win: 0.65, n_games : 100
+./ldconv_model/50000.pth: num_playouts:300, black win: 0.45, white win: 0.83, n_games : 100
+./ldconv_model/52000.pth: num_playouts:300, black win: 0.34, white win: 0.52, n_games : 100
+./ldconv_model/54000.pth: num_playouts:300, black win: 0.34, white win: 0.39, n_games : 100
+./ldconv_model/56000.pth: 
+./ldconv_model/58000.pth: num_playouts:300, black win: 0.43, white win: 0.62, n_games : 100
+./ldconv_model/60000.pth: 
+./ldconv_model/6000.pth: num_playouts:300, black win: 0.28, white win: 0.61, n_games : 100
+./ldconv_model/62000.pth: num_playouts:300, black win: 0.1, white win: 0.5, n_games : 100
+./ldconv_model/64000.pth: num_playouts:300, black win: 0.09, white win: 0.75, n_games : 100
+./ldconv_model/66000.pth: num_playouts:300, black win: 0.22, white win: 0.51, n_games : 100
+./ldconv_model/68000.pth: num_playouts:300, black win: 0.51, white win: 0.5, n_games : 100
+./ldconv_model/70000.pth: num_playouts:300, black win: 0.54, white win: 0.91, n_games : 100
+./ldconv_model/72000.pth: num_playouts:300, black win: 0.64, white win: 0.65, n_games : 100
+./ldconv_model/74000.pth: num_playouts:300, black win: 0.05, white win: 0.79, n_games : 100
+./ldconv_model/76000.pth: num_playouts:300, black win: 0.06, white win: 0.79, n_games : 100
+./ldconv_model/78000.pth: num_playouts:300, black win: 0.03, white win: 0.83, n_games : 100
+./ldconv_model/80000.pth: num_playouts:300, black win: 0.52, white win: 0.56, n_games : 100
+./ldconv_model/8000.pth: num_playouts:300, black win: 0.14, white win: 0.42, n_games : 100
+./ldconv_model/82000.pth: num_playouts:300, black win: 0.16, white win: 0.44, n_games : 100
+./ldconv_model/84000.pth: num_playouts:300, black win: 0.63, white win: 0.45, n_games : 100
+./ldconv_model/86000.pth: num_playouts:300, black win: 0.47, white win: 0.72, n_games : 100
+./ldconv_model/88000.pth: 
+./ldconv_model/90000.pth: 
+./ldconv_model/92000.pth: num_playouts:300, black win: 0.52, white win: 0.33, n_games : 100
+./ldconv_model/94000.pth: num_playouts:300, black win: 0.31, white win: 0.72, n_games : 100
+./ldconv_model/96000.pth: num_playouts:300, black win: 0.25, white win: 0.45, n_games : 100
+./ldconv_model/current.pth: num_playouts:300, black win: 0.18, white win: 0.9, n_games : 100
+./ldconv_model/pytorch.pth: num_playouts:300, black win: 0.23, white win: 0.85, n_games : 100

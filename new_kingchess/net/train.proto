@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+
+//message Stone {
+//    string point = 1;
+//    double prob = 2;
+//}
+
+message Triplet {
+    repeated int32 array = 1;
+    repeated float dictionary = 2;
+    double value = 3;
+}
+
+message TripletArray {
+    repeated Triplet triplets = 1;
+}

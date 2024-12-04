@@ -1,0 +1,145 @@
+./model/resnet5addexpert_11_7/100000.pth: num_playouts:300, black win: 0.56, white win: 0.67, n_games : 100
+./model/resnet5addexpert_11_7/10000.pth: 
+./model/resnet5addexpert_11_7/102000.pth: 
+./model/resnet5addexpert_11_7/104000.pth: 
+./model/resnet5addexpert_11_7/106000.pth: 
+./model/resnet5addexpert_11_7/108000.pth: 
+./model/resnet5addexpert_11_7/110000.pth: 
+./model/resnet5addexpert_11_7/112000.pth: 
+./model/resnet5addexpert_11_7/114000.pth: 
+./model/resnet5addexpert_11_7/116000.pth: 
+./model/resnet5addexpert_11_7/12000.pth: 
+./model/resnet5addexpert_11_7/14000.pth: 
+./model/resnet5addexpert_11_7/16000.pth: 
+./model/resnet5addexpert_11_7/18000.pth: 
+./model/resnet5addexpert_11_7/20000.pth: 
+./model/resnet5addexpert_11_7/2000.pth: 
+./model/resnet5addexpert_11_7/22000.pth: 
+./model/resnet5addexpert_11_7/24000.pth: 
+./model/resnet5addexpert_11_7/26000.pth: 
+./model/resnet5addexpert_11_7/28000.pth: 
+./model/resnet5addexpert_11_7/30000.pth: 
+./model/resnet5addexpert_11_7/32000.pth: 
+./model/resnet5addexpert_11_7/34000.pth: 
+./model/resnet5addexpert_11_7/36000.pth: 
+./model/resnet5addexpert_11_7/38000.pth: 
+./model/resnet5addexpert_11_7/40000.pth: 
+./model/resnet5addexpert_11_7/4000.pth: 
+./model/resnet5addexpert_11_7/42000.pth: 
+./model/resnet5addexpert_11_7/44000.pth: 
+./model/resnet5addexpert_11_7/46000.pth: 
+./model/resnet5addexpert_11_7/48000.pth: 
+./model/resnet5addexpert_11_7/50000.pth: 
+./model/resnet5addexpert_11_7/52000.pth: 
+./model/resnet5addexpert_11_7/54000.pth: 
+./model/resnet5addexpert_11_7/56000.pth: 
+./model/resnet5addexpert_11_7/58000.pth: 
+./model/resnet5addexpert_11_7/60000.pth: 
+./model/resnet5addexpert_11_7/6000.pth: 
+./model/resnet5addexpert_11_7/62000.pth: 
+./model/resnet5addexpert_11_7/64000.pth: 
+./model/resnet5addexpert_11_7/66000.pth: 
+./model/resnet5addexpert_11_7/68000.pth: 
+./model/resnet5addexpert_11_7/70000.pth: 
+./model/resnet5addexpert_11_7/72000.pth: 
+./model/resnet5addexpert_11_7/74000.pth: 
+./model/resnet5addexpert_11_7/76000.pth: 
+./model/resnet5addexpert_11_7/78000.pth: 
+./model/resnet5addexpert_11_7/80000.pth: 
+./model/resnet5addexpert_11_7/8000.pth: 
+./model/resnet5addexpert_11_7/82000.pth: 
+./model/resnet5addexpert_11_7/84000.pth: 
+./model/resnet5addexpert_11_7/86000.pth: 
+./model/resnet5addexpert_11_7/88000.pth: 
+./model/resnet5addexpert_11_7/90000.pth: 
+./model/resnet5addexpert_11_7/92000.pth: 
+./model/resnet5addexpert_11_7/94000.pth: 
+./model/resnet5addexpert_11_7/96000.pth: 
+./model/resnet5addexpert_11_7/98000.pth: 
+./model/resnet5addexpert_11_7/current.pth: 
+./model/resnet5addexpert_11_7/pytorch.pth: 
+./model/resnet5addexpert_11_7/100000.pth: 
+./model/resnet5addexpert_11_7/10000.pth: 
+./model/resnet5addexpert_11_7/102000.pth: 
+./model/resnet5addexpert_11_7/104000.pth: 
+./model/resnet5addexpert_11_7/106000.pth: 
+./model/resnet5addexpert_11_7/108000.pth: 
+./model/resnet5addexpert_11_7/110000.pth: 
+./model/resnet5addexpert_11_7/112000.pth: 
+./model/resnet5addexpert_11_7/114000.pth: 
+./model/resnet5addexpert_11_7/116000.pth: 
+./model/resnet5addexpert_11_7/12000.pth: 
+./model/resnet5addexpert_11_7/14000.pth: 
+./model/resnet5addexpert_11_7/16000.pth: 
+./model/resnet5addexpert_11_7/18000.pth: 
+./model/resnet5addexpert_11_7/20000.pth: 
+./model/resnet5addexpert_11_7/2000.pth: 
+./model/resnet5addexpert_11_7/22000.pth: 
+./model/resnet5addexpert_11_7/24000.pth: 
+./model/resnet5addexpert_11_7/26000.pth: 
+./model/resnet5addexpert_11_7/28000.pth: 
+./model/resnet5addexpert_11_7/30000.pth: 
+./model/resnet5addexpert_11_7/32000.pth: 
+./model/resnet5addexpert_11_7/34000.pth: 
+./model/resnet5addexpert_11_7/36000.pth: 
+./model/resnet5addexpert_11_7/38000.pth: 
+./model/resnet5addexpert_11_7/40000.pth: 
+./model/resnet5addexpert_11_7/4000.pth: 
+./model/resnet5addexpert_11_7/42000.pth: 
+./model/resnet5addexpert_11_7/44000.pth: 
+./model/resnet5addexpert_11_7/46000.pth: 
+./model/resnet5addexpert_11_7/100000.pth: num_playouts:300, black win: 0.36, white win: 0.75, n_games : 100
+./model/resnet5addexpert_11_7/10000.pth: num_playouts:300, black win: 0.7, white win: 0.85, n_games : 100
+./model/resnet5addexpert_11_7/102000.pth: num_playouts:300, black win: 0.38, white win: 0.74, n_games : 100
+./model/resnet5addexpert_11_7/104000.pth: num_playouts:300, black win: 0.8, white win: 0.78, n_games : 100
+./model/resnet5addexpert_11_7/106000.pth: num_playouts:300, black win: 0.76, white win: 0.81, n_games : 100
+./model/resnet5addexpert_11_7/108000.pth: num_playouts:300, black win: 0.73, white win: 0.72, n_games : 100
+./model/resnet5addexpert_11_7/110000.pth: num_playouts:300, black win: 0.87, white win: 0.73, n_games : 100
+./model/resnet5addexpert_11_7/112000.pth: num_playouts:300, black win: 0.79, white win: 0.67, n_games : 100
+./model/resnet5addexpert_11_7/114000.pth: num_playouts:300, black win: 0.71, white win: 0.84, n_games : 100
+./model/resnet5addexpert_11_7/116000.pth: num_playouts:300, black win: 0.39, white win: 0.78, n_games : 100
+./model/resnet5addexpert_11_7/12000.pth: num_playouts:300, black win: 0.79, white win: 0.88, n_games : 100
+./model/resnet5addexpert_11_7/14000.pth: num_playouts:300, black win: 0.79, white win: 0.81, n_games : 100
+./model/resnet5addexpert_11_7/16000.pth: num_playouts:300, black win: 0.74, white win: 0.82, n_games : 100
+./model/resnet5addexpert_11_7/18000.pth: num_playouts:300, black win: 0.78, white win: 0.82, n_games : 100
+./model/resnet5addexpert_11_7/20000.pth: num_playouts:300, black win: 0.71, white win: 0.76, n_games : 100
+./model/resnet5addexpert_11_7/2000.pth: num_playouts:300, black win: 0.77, white win: 0.83, n_games : 100
+./model/resnet5addexpert_11_7/22000.pth: num_playouts:300, black win: 0.76, white win: 0.73, n_games : 100
+./model/resnet5addexpert_11_7/24000.pth: num_playouts:300, black win: 0.71, white win: 0.76, n_games : 100
+./model/resnet5addexpert_11_7/26000.pth: num_playouts:300, black win: 0.74, white win: 0.81, n_games : 100
+./model/resnet5addexpert_11_7/28000.pth: num_playouts:300, black win: 0.71, white win: 0.79, n_games : 100
+./model/resnet5addexpert_11_7/30000.pth: num_playouts:300, black win: 0.84, white win: 0.83, n_games : 100
+./model/resnet5addexpert_11_7/32000.pth: num_playouts:300, black win: 0.79, white win: 0.83, n_games : 100
+./model/resnet5addexpert_11_7/34000.pth: num_playouts:300, black win: 0.81, white win: 0.78, n_games : 100
+./model/resnet5addexpert_11_7/36000.pth: num_playouts:300, black win: 0.82, white win: 0.81, n_games : 100
+./model/resnet5addexpert_11_7/38000.pth: 
+./model/resnet5addexpert_11_7/40000.pth: 
+./model/resnet5addexpert_11_7/4000.pth: 
+./model/resnet5addexpert_11_7/42000.pth: 
+./model/resnet5addexpert_11_7/44000.pth: 
+./model/resnet5addexpert_11_7/46000.pth: 
+./model/resnet5addexpert_11_7/48000.pth: 
+./model/resnet5addexpert_11_7/50000.pth: 
+./model/resnet5addexpert_11_7/52000.pth: 
+./model/resnet5addexpert_11_7/54000.pth: 
+./model/resnet5addexpert_11_7/56000.pth: 
+./model/resnet5addexpert_11_7/58000.pth: 
+./model/resnet5addexpert_11_7/60000.pth: 
+./model/resnet5addexpert_11_7/6000.pth: 
+./model/resnet5addexpert_11_7/62000.pth: 
+./model/resnet5addexpert_11_7/64000.pth: 
+./model/resnet5addexpert_11_7/66000.pth: 
+./model/resnet5addexpert_11_7/68000.pth: 
+./model/resnet5addexpert_11_7/70000.pth: 
+./model/resnet5addexpert_11_7/72000.pth: 
+./model/resnet5addexpert_11_7/74000.pth: 
+./model/resnet5addexpert_11_7/76000.pth: 
+./model/resnet5addexpert_11_7/78000.pth: 
+./model/resnet5addexpert_11_7/80000.pth: 
+./model/resnet5addexpert_11_7/8000.pth: 
+./model/resnet5addexpert_11_7/82000.pth: 
+./model/resnet5addexpert_11_7/84000.pth: 
+./model/resnet5addexpert_11_7/86000.pth: 
+./model/resnet5addexpert_11_7/88000.pth: 
+./model/resnet5addexpert_11_7/90000.pth: 
+./model/resnet5addexpert_11_7/92000.pth: 
